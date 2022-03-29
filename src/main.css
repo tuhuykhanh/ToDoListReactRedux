@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+*
+{
+    margin: 0;padding: 0;
+    box-sizing: border-box;
+    transition: all .15s linear;
+    outline: none; border: none;
+    text-transform: capitalize;
+}
+html
+{
+    font-size: 62.5%;
+    font-family: 'poppins', sans-serif;
+}
+.Medium
+{
+    background-color: rgb(127, 127, 250);
+}
+.Low
+{
+    background-color: #333;
+}
+.High
+{
+    background-color: rgb(253, 150, 150);
+}
